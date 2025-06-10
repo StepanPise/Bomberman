@@ -1,4 +1,4 @@
-3D Bomberman 1v1
+Bomberman 1v1
 
 3D Bomberman-style game, designed for local 1v1 matches with various power-ups.
 
