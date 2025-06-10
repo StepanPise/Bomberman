@@ -16,8 +16,8 @@ For a quick play session, a playable Windows executable is available. Navigate t
 
 **Technologies Used**
 
-Game Engine: Unity (version 2022.3.21f1)
+* Game Engine: Unity (version 2022.3.21f1)
 
-Programming Language: C#
+* Programming Language: C#
 
-3D Modeling & Assets: Blender
+* 3D Modeling & Assets: Blender
