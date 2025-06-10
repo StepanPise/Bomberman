@@ -8,7 +8,7 @@
 
 **Option 1: Inspect in Unity**
 
-For those who want to explore the project's internals, you can open and explore it directly within Unity. Just clone the repository, open the project in Unity, and you can run and edit the game right from the editor.
+If you want to inspect project's internals in Unity, just clone the repository, open the project in Unity, and you can run and edit the game right from the editor.
 
 **Option 2: Play the Executable**
 
