@@ -13,3 +13,9 @@ If you want to inspect project's internals in Unity, just clone the repository, 
 **Option 2: Play the Executable**
 
 For a quick play session, a playable Windows executable is available. Navigate to the Builds directory, download the bomber_playable_pise folder, and then run the pise_Bomberman.exe application.
+
+**Technologies Used**
+
+Game Engine: Unity (version 2022.3.21f1)
+Programming Language: C#
+3D Modeling & Assets: Blender
